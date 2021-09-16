@@ -30,7 +30,7 @@ public class InterfaceScreenUsers extends JFrame {
 
 
 
-        lb_autent = new JLabel("autêntifique-se");
+        lb_autent = new JLabel("autêntifique");
         lb_raca = new JLabel("raça/ cor");
         lb_id        = new JLabel("id");
         lb_password        = new JLabel("senha");
